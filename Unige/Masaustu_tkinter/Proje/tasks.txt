@@ -1,0 +1,5 @@
+Préparer le coding dojo,1
+Boire un café au lait,1
+Nourrir mon chat,1
+Aller courir 100 mètres,0
+Passer du bon temps dehors,0

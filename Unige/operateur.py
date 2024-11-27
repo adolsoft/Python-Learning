@@ -18,5 +18,3 @@ print(phrase)
 vitesse_legale = 120
 
 est_legale = vitesse < vitesse_legale
-
-pr
